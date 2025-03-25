@@ -7,15 +7,22 @@ This is a Movie Search mobile application built using React Native. The app allo
 ## Features
 
 ✅ Search for movies by title using a search bar
+
 ✅ Fetch movie data from the OMDb API
+
 ✅ Display searched movies in a list view with names and posters
+
 ✅ Tap on a movie to view detailed information, including poster, title, year, genre, and rating
+
 ✅ Save favorite movies using AsyncStorage
+
 ✅ Load more movies at the bottom of the list
 
 ## Tech Stack
 React Native: For building the mobile app
+
 OMDb API: For fetching movie data
+
 AsyncStorage: For storing favorite movies locally
 
 # Installation and Setup
