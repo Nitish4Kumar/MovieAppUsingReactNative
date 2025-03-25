@@ -1,8 +1,7 @@
 # Movies App
 
-https://github.com/Rohit-Nandagawali/MovieApp-react-native/assets/85486891/0d4ad560-92a1-4b5b-a3f3-4b1626dbbc4d.mp4
 
-Movies App is a mobile application built with React Native that allows users to explore and discover information about movies. It utilizes the TMDB API to fetch movie data and provides various features like searching for movies, viewing movie details, trending movies, upcoming releases, top-rated movies, and cast details.
+Movies App is a mobile application built with React Native that allows users to explore and discover information about movies. It utilizes the OMDB API to fetch movie data and provides various features like searching for movies, viewing movie details, trending movies, upcoming releases, top-rated movies, and cast details.
 
 ## Features
 
@@ -16,7 +15,7 @@ Movies App is a mobile application built with React Native that allows users to 
 ## Technologies Used
 
 - React Native
-- TMDB API
+- OMDB API
 - Axios
 - NativeWind
 
@@ -24,7 +23,7 @@ Movies App is a mobile application built with React Native that allows users to 
 
 To run the Movies App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/movies-app.git`
+1. Clone the repository: `git clone https://github.com/Nitish4Kumar/`
 2. Navigate to the project directory: `cd movies-app`
 3. Install the dependencies: `npm install`
 4. Configure the TMDB API credentials in the project
