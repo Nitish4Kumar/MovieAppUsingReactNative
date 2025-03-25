@@ -23,13 +23,12 @@ Movies App is a mobile application built with React Native that allows users to 
 
 To run the Movies App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Nitish4Kumar/`
-2. Navigate to the project directory: `cd movies-app`
+1. Clone the repository: `git clone https://github.com/Nitish4Kumar/MovieAppUsingReactNative`
+2. Navigate to the project directory: `cd MovieAppUsingReactNative`
 3. Install the dependencies: `npm install`
 4. Configure the TMDB API credentials in the project
 5. Run the app on a connected device or emulator: `npm run android` (for Android) or `npm run ios` (for iOS)
 
-Note: Make sure you have Node.js, npm, and React Native CLI installed on your system.
+Note: Make sure we have Node.js, npm, and React Native CLI installed on your system.
 
 
-Happy movie exploration! 🎥🍿✨
