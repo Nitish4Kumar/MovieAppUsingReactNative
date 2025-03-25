@@ -61,14 +61,23 @@ npx react-native run-ios
 ## Folder Structure
 
 MovieApp/
+
 │-- src/
+
 │   ├── components/   # Reusable components (MovieCard, SearchBar, etc.)
+
 │   ├── screens/      # App screens (HomeScreen, DetailsScreen, FavoritesScreen)
+
 │   ├── services/     # API service functions
+
 │   ├── storage/      # AsyncStorage functions
+
 │-- assets/           # Images and icons
+
 │-- App.js            # Main entry point
+
 │-- package.json      # Dependencies and scripts
+
 │-- .env              # API keys (not to be shared)
 
 ## API Integration
